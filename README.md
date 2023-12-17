@@ -36,4 +36,4 @@ Please make sure to follow the code style and conventions of the project, and to
 ProCode is licensed under the MIT License. See the LICENSE file for more details.
 
 # Author
-ProCode is created and maintained by your name. You can contact me at Shivendra Raikwar or follow me on instagram.com/shivendra.raikwar
+ProCode is created and maintained by Shivendra Raikwar. You can follow me on instagram.com/shivendra.raikwar
