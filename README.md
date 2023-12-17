@@ -15,7 +15,7 @@ cd procode
 pip install -r requirements.txt
 ```
 
-Usage
+# Usage
 To run ProCode, simply execute the main.py file:
 ```
 python main.py
@@ -23,7 +23,7 @@ python main.py
 
 This will open the ProCode editor window, where you can create, edit, and save your code files. You can also open existing files from the File menu or by dragging and dropping them into the editor.
 
-#Contributing
+# Contributing
 ProCode is an open source project and welcomes contributions from anyone who wants to improve it. If you are interested in contributing, please follow these steps:
 
 Fork this repository and create a new branch for your feature or bug fix.
@@ -32,8 +32,8 @@ Push your branch to your forked repository and create a pull request to the main
 Wait for your pull request to be reviewed and merged.
 Please make sure to follow the code style and conventions of the project, and to test your code before submitting it. You can also check the issues page for any open tasks or suggestions.
 
-#License
+# License
 ProCode is licensed under the MIT License. See the LICENSE file for more details.
 
-#Author
+# Author
 ProCode is created and maintained by your name. You can contact me at Shivendra Raikwar or follow me on instagram.com/shivendra.raikwar
