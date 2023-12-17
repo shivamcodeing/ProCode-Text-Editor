@@ -5,7 +5,7 @@ Installation
 To install ProCode, you need to have Python 3.8 or higher installed on your system. You can download Python from here. Then, clone this repository:
 
 # Clone this repository
-git clone https://github.com/your-username/procode.git
+git clone https://github.com/ShivamCodeing/ProCode-Text-Editor.git
 cd procode
 
 # Install dependencies
@@ -31,4 +31,4 @@ License
 ProCode is licensed under the MIT License. See the LICENSE file for more details.
 
 Author
-ProCode is created and maintained by your name. You can contact me at [your email] or follow me on [your social media].
+ProCode is created and maintained by your name. You can contact me at Shivendra Raikwar or follow me on instagram.com/shivendra.raikwar
